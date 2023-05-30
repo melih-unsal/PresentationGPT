@@ -58,7 +58,7 @@ Input Prompt:
 
 
 1. [ ] Generate VBA for Sales Deck
-    - [ ]Create VBA code that generates a sales deck using a single-page HTML input.
+    - [ ] Create VBA code that generates a sales deck using a single-page HTML input.
     - [ ] Implement logic to extract relevant information from the HTML and populate the slides with sales-related content.
 2.  [ ] Generate VBA for Investor Deck
     - [ ] Develop VBA code that generates an investor deck presentation using a single-page HTML input.
