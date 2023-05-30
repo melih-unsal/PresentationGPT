@@ -6,13 +6,13 @@ This code base enables users to generate an Investor Deck for a startup using Ch
 1. #### Input Prompt: 
 The user provides specific information to generate the Investor Deck. The prompt includes the following textfields:
 
-* #### Presentation Topic: 
+* ##### Presentation Topic: 
 The user specifies the topic of the Investor Deck, such as "Science". This ensures that the generated slides focus on the desired topic.
 
-* #### Website URL: 
+* ##### Website URL: 
 The user provides the URL of the startup's website. This allows ChatGPT to gather information from the website and generate relevant content for the slides.
 
-* #### Template URL (Optional): 
+* ##### Template URL (Optional): 
 If desired, the user can provide a URL to a presentation template. This template can be used to give the generated Investor Deck a consistent visual style and layout.
 
 2. #### ChatGPT Integration: 
