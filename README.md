@@ -53,3 +53,48 @@ Input Prompt:
 - Presentation Topic: Science
 - Website URL: https://www.startup_page.com
 - Template URL (Optional): https://www.template_slide.com
+
+### ToDo
+
+
+1. [] Generate VBA for Sales Deck
+    - []Create VBA code that generates a sales deck using a single-page HTML input.
+    - [] Implement logic to extract relevant information from the HTML and populate the slides with sales-related content.
+2.  [] Generate VBA for Investor Deck
+    - [] Develop VBA code that generates an investor deck presentation using a single-page HTML input.
+    - [] Extract key details from the HTML and utilize them to populate the slides with investor-focused content.
+3. [] Generate VBA for Marketing Deck
+    - [] Design VBA code to generate a marketing deck presentation using a single-page HTML input.
+    - [] Extract relevant marketing information from the HTML and populate the slides with engaging content.
+    - [] Implement styling and visual elements to create an impactful marketing presentation.
+4. [] Generate Presentation without Background
+    - [] Create VBA code to generate a presentation without a background using a single-page HTML input.
+    - [] Extract content from the HTML and generate slides with clear formatting and layout.
+    - [] Ensure the generated presentation has a clean and minimalistic look.
+5. [] Generate Presentation with Background
+    - [] Develop VBA code to generate a presentation with a background using a single-page HTML input.
+    - [] Extract content from the HTML and apply it to slides with an appealing background design.
+6. [] Generate Presentation with Background based on Template Presentation
+    - [] Enhance the existing VBA code to generate a presentation with a background based on a template presentation.
+    - [] Extract content from the HTML and apply it to the template slides while preserving the background design.
+    - [] Ensure the generated presentation maintains consistency with the template's visual theme.
+7. [] Generate Presentation with Background using the Whole Page
+    - [] Extend the VBA code to generate a presentation with a background using the whole page of the HTML input.
+    - [] Extract content from the entire HTML page and generate slides with background design and appropriate content placement.
+    - [] Implement styling and formatting to create an immersive presentation experience.
+8. [] Generate Presentation with Background based on Template Presentation using the Whole Page
+    - [] Further enhance the existing VBA code to generate a presentation with a background based on a template presentation, using the whole website as an input.
+    - [] Extract content from the entire website and apply it to the template slides while preserving the background design.
+    - [] Ensure the generated presentation maintains consistency with the template's visual theme and utilizes the complete page content.
+
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
